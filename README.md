@@ -1,9 +1,9 @@
 # Descarga de la aplicación
 
-Instalar Node.js y Visual Studio Code.
-Descargar el código con https:
-    git clone https://github.com/diegombenedetto/futbolamateurpro_react.git
-En la terminal ejecutar:
+Instalar Node.js y Visual Studio Code.\
+Descargar el código con https:\
+    git clone https://github.com/diegombenedetto/futbolamateurpro_react.git\
+En la terminal ejecutar:\
 ### `npm start`
 Se abrirá [http://localhost:3000](http://localhost:3000) en el navegador.
 
